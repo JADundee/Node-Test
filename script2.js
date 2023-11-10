@@ -1,5 +1,5 @@
-const largeNumber = 350
+export const largeNumber = 350
 
-module.exports = {
+/* module.exports = {
     largeNumber: largeNumber
-}
+} */
